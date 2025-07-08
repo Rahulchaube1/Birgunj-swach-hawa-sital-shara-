@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pbwhsh.jpg" alt="Birgunj Swacha Hawa: Sital Shara Logo" width="180"/>
+</p>
+
 # Birgunj Swacha Hawa: Sital Shara
 
 ![License](https://img.shields.io/github/license/Rahulchaube1/Birgunj-swach-hawa-sital-shara-)
@@ -22,8 +26,8 @@ Birgunj Swacha Hawa: Sital Shara is a modern web application for visualizing and
 
 ## 🖼️ Screenshots
 
-<!-- Add real screenshots in public/ and update the src below -->
-<img src="public/screenshot1.png" alt="App Screenshot" width="600"/>
+<!-- Add real screenshots in the root folder and update the src below -->
+<img src="screenshot1.png" alt="App Screenshot" width="600"/>
 
 ---
 
@@ -62,16 +66,23 @@ npm run dev
   <tr>
     <td align="center">
       <b><span style="font-size:1.2em; background: #ffeead; padding: 2px 6px; border-radius: 4px;">Rahul Chaube</span></b> <br>
-      <a href="https://github.com/Rahulchaube1">
-        <img src="https://avatars.githubusercontent.com/u/106944370?v=4" width="100px;" alt="Rahul Chaube"/>
-      </a>
+      <img src="rahul.jpg" width="120px" alt="Rahul Chaube"/>
       <br/>
       <sub>Project Owner & Lead Developer</sub>
     </td>
     <td align="center">
       <b><span style="font-size:1.1em; background: #b3ffd9; padding: 2px 6px; border-radius: 4px;">Team Artistic Impression Research</span></b>
       <br/>
+      <img src="airesearch.jpg" width="120px" alt="Team Artistic Impression Research"/>
+      <br/>
       <sub>Collaborators & Inspiration</sub>
+    </td>
+    <td align="center">
+      <b><span style="font-size:1.1em; background: #ffe4e1; padding: 2px 6px; border-radius: 4px;">In Proud Collaboration with Birgunj Mahanagar Palika</span></b>
+      <br/>
+      <img src="mahanagar.jpeg" width="120px" alt="Birgunj Mahanagar Palika"/>
+      <br/>
+      <sub>Municipal Partner & Supporter</sub>
     </td>
   </tr>
 </table>
@@ -94,4 +105,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> Made by <b>Rahul Chaube</b> & <b>Team Artistic Impression Research</b> for Birgunj's clean air initiative.
+> Made by <b>Rahul Chaube</b>, <b>Team Artistic Impression Research</b> & <b>Birgunj Mahanagar Palika</b> for Birgunj's clean air initiative.
